@@ -1,0 +1,36 @@
+.projectCard{
+    padding: 10%; 
+    padding-top: 1.5%;
+    padding-bottom: 3%;
+}
+
+.projectCardHeader{
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 200%;
+}
+
+#closeButton{
+    float: right; 
+    font-size: 60%;
+}
+
+#allProjects{
+    padding: 2%;
+}
+
+.details span{
+    display:inline-block;
+}
+
+.details .title{
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+#projectDetailsCard{
+    padding: 2%; 
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
