@@ -26,6 +26,7 @@ function AddProject() {
     const navAllProjects = () => { navigate("/allProjects") }
 
     /* eslint-disable no-unused-expressions */
+    
     // function multipleEvents(){
     //     navAllProjects
     //     createProject
@@ -90,4 +91,3 @@ function AddProject() {
 }
 
 export default AddProject;
-
